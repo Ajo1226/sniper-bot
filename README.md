@@ -1,7 +1,4 @@
-<p align="center">
-  <img style="width: 40%; height: 40%: align: center" src="assets/logo.png" alt="Spartan-Crypto logo">
-</p>
-<h1 align="center">Sniper-Bot</h1>
+
 
 This free-to-use bot allows you to snipe every token presale on DxSale, Pinksale or any other BSC platform where you have to send BNB to some `presale address`.
 
@@ -181,10 +178,3 @@ Then, if required, it will wait for the requested number of blocks before issuin
 * `amount`: the amount of BNB you want to send (thus **ETHER** as unit of measurement)
 </br>
 
-<a name="license_link"></a>
-## License
-Check [LICENSE file](./LICENSE).
-
-<a name="credits_link"></a>
-## Credits
-Developed by @forza-panino for the telegram group [Spartan-Crypto](https://t.me/Spartancryptoita), main sponsor.
